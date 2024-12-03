@@ -40,10 +40,10 @@
     vpc_peering_tags
 
 # OUTPUTS
-vpc_id
-public_subnet_IDs
-private_subnet_IDs
-database_subnet_IDs
+* vpc_id
+* public_subnet_IDs
+* private_subnet_IDs
+* database_subnet_IDs
 
 
 
